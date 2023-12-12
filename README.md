@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/☁️-smita-hodiggeri) 
 
 # 💻 Tech Stack:
-![APEX](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+APEX,HTML,CSS,JAVASCRIPT
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=smitavh1&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=smitavh1&theme=maroongold&hide_border=false)<br/>
