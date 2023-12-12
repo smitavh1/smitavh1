@@ -1,7 +1,7 @@
 ### Hi there 👋🚀👩🏽‍💻 I'm Smita Hodiggeri
 
 # 💫 About Me:
-🔭 I’m currently working on - Everything Salesforce <br>🌱 I’m currently digging deep into - APEX, Integrations, LWC's, Content Creation<br>💬 Ask me about - Anything Salesforce really!!<br>⚡ Fun fact - Combining the delicacy of arranging flowers with the precision of coding,<br>                         I create digital bouquets that bloom on screens!💐👩🏽‍💻
+🔭 I’m currently working on - Everything Salesforce <br>🌱 I’m currently digging deep into - APEX, Integrations, LWC's, Content Creation<br>💬 Ask me about - Anything Salesforce really!! <br> 🏅 3X Certified <br>⚡ Fun fact - Combining the delicacy of arranging flowers with the precision of coding,<br>                         I create digital bouquets that bloom on screens!💐👩🏽‍💻
 
 
 ## 🌐 Socials:
