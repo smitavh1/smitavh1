@@ -8,7 +8,7 @@
 https://www.linkedin.com/in/%E2%98%81%EF%B8%8F-smita-hodiggeri/
 
 # 💻 Tech Stack:
-APEX,HTML,CSS,JAVASCRIPT
+APEX, HTML, CSS, JAVASCRIPT
 
 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=smitavh1&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
