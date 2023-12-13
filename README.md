@@ -2,7 +2,9 @@
 
 <h3 align ="left"> 💫 About Me:</h3>
 🔭 I’m currently working on - Everything Salesforce <br>🌱 I’m currently digging deep into - APEX, Integrations, LWC's, Content Creation<br>💬 Ask me about - Anything Salesforce really!! <br> 🏅 3X Certified <br>⚡ Me in a nutshell - Combining the delicacy of arranging flowers with the precision of coding,<br>                         I create digital bouquets that bloom on screens!💐👩🏽‍💻
-
+<div>
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ## 🌐 Socials:
 https://www.linkedin.com/in/%E2%98%81%EF%B8%8F-smita-hodiggeri/
@@ -17,9 +19,6 @@ APEX, HTML, CSS, JAVASCRIPT
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=smitavh1&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
