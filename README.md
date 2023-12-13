@@ -3,6 +3,9 @@
 <h3 align ="left"> 💫 About Me:</h3>
 🔭 I’m currently working on - Everything Salesforce <br>🌱 I’m currently digging deep into - APEX, Integrations, LWC's, Content Creation<br>💬 Ask me about - Anything Salesforce really!! <br> 🏅 3X Certified <br>⚡ Me in a nutshell - Combining the delicacy of arranging flowers with the precision of coding,<br>                         I create digital bouquets that bloom on screens!💐👩🏽‍💻
 
+### 😂 Quote that Resonates With Me
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
 ## 🌐 Socials:
 https://www.linkedin.com/in/%E2%98%81%EF%B8%8F-smita-hodiggeri/
 
@@ -19,8 +22,7 @@ APEX, HTML, CSS, JAVASCRIPT
 
 
 
-### 😂 Quote that Resonates With Me
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=smitavh1&icon=0&color=0)](https://visitcount.itsvg.in)
