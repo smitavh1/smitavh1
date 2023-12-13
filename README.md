@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋🚀👩🏽‍💻 I'm Smita Hodiggeri</h1>
 
-# 💫 About Me:
+<h3 align ="left"> 💫 About Me:</h3>
 🔭 I’m currently working on - Everything Salesforce <br>🌱 I’m currently digging deep into - APEX, Integrations, LWC's, Content Creation<br>💬 Ask me about - Anything Salesforce really!! <br> 🏅 3X Certified <br>⚡ Me in a nutshell - Combining the delicacy of arranging flowers with the precision of coding,<br>                         I create digital bouquets that bloom on screens!💐👩🏽‍💻
 
 
