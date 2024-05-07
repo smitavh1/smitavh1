@@ -34,7 +34,7 @@ www.linkedin.com/in/☁️-smita-hodiggeri
 # ☁ Salesforce Credentials
 
 <div align="center">
-   <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000" height="100" alt="Platform Developer 1"/>
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000" height="100" alt="Platform Developer 1"/>
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" height="100" alt="Administrator"/>  
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" height="100" alt="Platform App builder"/>
   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Business%20Analyst.png" height="100" alt="Business Analyst"/>
