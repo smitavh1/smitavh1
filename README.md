@@ -35,10 +35,15 @@ www.linkedin.com/in/☁️-smita-hodiggeri
 
 <div align="center">
 
-    <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png" height="100" alt="Platform Developer I"/>  
-    <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" height="100" alt="Administrator"/>  
-    <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" height="100" alt="Platform App builder"/>
-    <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Business%20Analyst.png" height="100" alt="Business Analyst"/>
+
+   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png" height="100" alt="Platform Developer I"/>
+   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" height="100" alt="Administrator"/>  
+   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png" height="100" alt="Platform App builder"/>
+   <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Business%20Analyst.png" height="100" alt="Business Analyst"/>
+
+
+
+</div>
   
 
 
