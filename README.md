@@ -1,8 +1,7 @@
 <h1 align="center"> Hi there 👋🚀👩🏽‍💻 I'm Smita Hodiggeri</h1>
 
 <h3 align ="left"> 💫 About Me:</h3>
-🔭 I’m currently working on - Everything Salesforce <br>🌱 I’m currently digging deep into - APEX, Integrations, LWC's, Content Creation<br>💬 Ask me about - Personalised Floral Arrangements & Anything Salesforce really!! <br> 🏅 4X Certified <br>⚡ Me in a nutshell - Combining the delicacy of arranging flowers with the precision of coding,<br>                         I create digital bouquets that bloom on screens!💐👩🏽‍💻
-
+🔭 I’m currently working on - Everything Salesforce <br>🌱 I’m currently digging deep into - APEX, Integrations, LWC's, Content Creation<br>💬 Ask me about - Personalised Floral Arrangements & Anything Salesforce really!! <br> 🏅 5X Certified <br>⚡ Me in a nutshell - Delivering optimised salesforce solutions that stand test of time and traffic.
 ### Quote that Resonates With Me
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
